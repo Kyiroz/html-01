@@ -35,5 +35,10 @@ article h2{ /* hacer cambios en las etiquetas h2 dentro de article */
 
 .text{
     font-size: 2rem; /* es lo mismo que font-size: 32px; ya que 1rem es igual a 16px */
-    
+}
+
+/* selector por id */
+
+#text-a1{
+    color: darkmagenta;
 }
