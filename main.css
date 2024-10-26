@@ -1,0 +1,39 @@
+/* selector por tag */
+
+h1{
+    background-color: darkgray;
+    
+    align-content: center;
+    color: darkgreen;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 32px;
+}
+
+article{
+    color: red;
+}
+
+ul {
+    color:aqua;
+}
+
+header p{ /* hacer cambios en la etiqueta p dentro de header */
+    color: darkcyan;
+    font-size: 30px;
+}
+
+article h2{ /* hacer cambios en las etiquetas h2 dentro de article */
+    color: blueviolet;
+}
+
+/* selector por clases */
+
+.titulo2{
+    color:purple
+}
+
+.text{
+    font-size: 2rem; /* es lo mismo que font-size: 32px; ya que 1rem es igual a 16px */
+    
+}
